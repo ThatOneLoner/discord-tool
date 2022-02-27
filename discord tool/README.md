@@ -60,13 +60,6 @@ By using nerds tool, you agree that you hold responsibility and accountability o
 Launch the setup.bat file. A new file will be created. You will only have to launch it.
 ```
 
-#### 2nd・Installation (Manual installation)
-```
-$ git clone https://github.com/AstraaDev/Discord-All-Tools-In-One.git
-$ python -m pip install -r requirements.txt
-$ python3 astraahome.py
-```
-
 ## Additional Informations
 General Informations:
 - Find your output files in the  [temp](/temp) folder.
